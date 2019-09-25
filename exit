@@ -1,0 +1,36 @@
+[33mcommit f2095116e2a2ca13b60e7b509022ce93c7be7343[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 110ef01 b1e393e
+Author: Rene Barrera <rene.barrera1022@gmail.com>
+Date:   Wed Sep 11 09:40:07 2019 -0500
+
+    Merge branch 'master' of https://github.com/renebarrera1022/UNEDL2019B
+
+[33mcommit 110ef01cdc4815114a77eed5f46e106e2d244af7[m
+Author: Rene Barrera <rene.barrera1022@gmail.com>
+Date:   Wed Sep 11 09:27:36 2019 -0500
+
+    RecorridoMatriz
+
+[33mcommit b1e393e288ded6b076732352315a9be2f892bdf1[m
+Author: renebarrera1022 <54872896+renebarrera1022@users.noreply.github.com>
+Date:   Mon Sep 9 09:53:46 2019 -0500
+
+    Create README.md
+
+[33mcommit e477d0c30330a76382438217123108421f3ebdee[m
+Author: renebarrera1022 <54872896+renebarrera1022@users.noreply.github.com>
+Date:   Mon Sep 9 09:53:15 2019 -0500
+
+    Delete Docs
+
+[33mcommit 2ea2a486d3187a77492e24277b5463c2dee623b1[m
+Author: renebarrera1022 <54872896+renebarrera1022@users.noreply.github.com>
+Date:   Mon Sep 9 09:51:44 2019 -0500
+
+    Create Docs
+
+[33mcommit 53368ae611657304d70c93d727a23b2dea69120f[m
+Author: renebarrera1022 <54872896+renebarrera1022@users.noreply.github.com>
+Date:   Mon Sep 9 09:34:18 2019 -0500
+
+    Initial commit
