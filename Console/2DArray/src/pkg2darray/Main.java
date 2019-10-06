@@ -12,16 +12,22 @@ public class Main {
 
     // Complete the hourglassSum function below.
     static int hourglassSum(int[][] arr) {
-        
-        for (int y = 0; y < arr.length; y++) {
+        int reloj = 0;
+        int relojMayor = -63;
 
-            for (int x = 0; x < arr.length; x++) {
-                
+        for (int y = 0; y < 4; y++) {
+            for (int x = 0; x < 4; x++) {
+                reloj = arr[y][x] + arr[y][x + 1] + arr[y][x + 2]
+                        + arr[y + 1][x + 1]
+                        + arr[y + 2][x] + arr[y + 2][x + 1] + arr[y + 2][x + 2];
+
+               if(reloj > relojMayor){
+                   relojMayor = reloj;
+               }
             }
-            
         }
-
-        return 0;
+        System.out.println(relojMayor);
+        return relojMayor;
     }
 
     private static final Scanner scanner = new Scanner(System.in);
