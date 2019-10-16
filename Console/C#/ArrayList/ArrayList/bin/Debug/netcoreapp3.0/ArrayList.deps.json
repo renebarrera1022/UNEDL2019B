@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.0": {
-      "CompareTriplets/1.0.0": {
+      "ArrayList/1.0.0": {
         "runtime": {
-          "CompareTriplets.dll": {}
+          "ArrayList.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CompareTriplets/1.0.0": {
+    "ArrayList/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

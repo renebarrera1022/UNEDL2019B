@@ -1,4 +1,4 @@
-package programacion3;
+package InicioDeCurso;
 import java.util.Scanner;
 public class Tarea1_RestaAbsolutaMatriz {
     private Scanner t;

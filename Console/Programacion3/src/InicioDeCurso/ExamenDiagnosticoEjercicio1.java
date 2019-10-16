@@ -1,5 +1,5 @@
 //René Alejandro Barrera Ramírez
-package programacion3;
+package InicioDeCurso;
 
 public class ExamenDiagnosticoEjercicio1 {
     private int cont = 1;

@@ -1,4 +1,4 @@
-package programacion3;
+package InicioDeCurso;
 
 public class ExamenDiagnosticoEjercicio2 {
 
