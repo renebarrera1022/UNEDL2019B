@@ -7,14 +7,10 @@ namespace p
     {
         static void Main(string[] args)
         {
-            /*ArrayList al = new ArrayList();
+            ArrayList al = new ArrayList();
             al.Add(null);
             al.Add("string");
-            al.Add(1); */
-           
-            Console.WriteLine(":");
-           int edad = Console.Read();
-            Console.WriteLine(edad);
+            al.Add(1); 
         }
     }
 }

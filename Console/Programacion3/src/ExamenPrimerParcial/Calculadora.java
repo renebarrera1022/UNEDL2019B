@@ -4,7 +4,7 @@ public class Calculadora {
     private float resultado;
 
     public Calculadora(Habitacion habitacion, Tapiz tapiz) {
-        resultado = (float) (habitacion.getArea() * tapiz.getCost());
+        resultado =  (habitacion.getArea() * tapiz.getCost());
     }
 
     public double getTotalCost() {

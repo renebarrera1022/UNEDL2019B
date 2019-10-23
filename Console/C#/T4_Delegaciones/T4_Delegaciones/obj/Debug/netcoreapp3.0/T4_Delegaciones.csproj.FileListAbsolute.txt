@@ -1,0 +1,11 @@
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\bin\Debug\netcoreapp3.0\T4_Delegaciones.exe
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\bin\Debug\netcoreapp3.0\T4_Delegaciones.deps.json
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\bin\Debug\netcoreapp3.0\T4_Delegaciones.runtimeconfig.json
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\bin\Debug\netcoreapp3.0\T4_Delegaciones.runtimeconfig.dev.json
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\bin\Debug\netcoreapp3.0\T4_Delegaciones.dll
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\bin\Debug\netcoreapp3.0\T4_Delegaciones.pdb
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\obj\Debug\netcoreapp3.0\T4_Delegaciones.csprojAssemblyReference.cache
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\obj\Debug\netcoreapp3.0\T4_Delegaciones.AssemblyInfoInputs.cache
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\obj\Debug\netcoreapp3.0\T4_Delegaciones.AssemblyInfo.cs
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\obj\Debug\netcoreapp3.0\T4_Delegaciones.dll
+C:\Users\reneb\UNEDL2019B\Console\C#\T4_Delegaciones\T4_Delegaciones\obj\Debug\netcoreapp3.0\T4_Delegaciones.pdb
