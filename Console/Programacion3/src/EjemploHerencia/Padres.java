@@ -1,6 +1,6 @@
 package EjemploHerencia;
 
-public class Padres {
+public class Padres{
 
     protected float estatura;
     protected float peso;
@@ -15,44 +15,33 @@ public class Padres {
         colorOjos = "cafe";
         colorCabello = "castaño";
     }
-
-    public void setEstatura(float estatura) {
-        this.estatura = estatura;
+    
+    protected String movimientoOrejas(){
+        return "Movimiento de orejas";
     }
-
+    
+    protected String limpieza(){
+        return "Obsesión con la limpieza";
+    }
+    
     public float getEstatura() {
         return estatura;
-    }
-
-    public void setPeso(float peso) {
-        this.peso = peso;
     }
 
     public float getPeso() {
         return peso;
     }
 
-    public void setColorPiel(String colorPiel) {
-        this.colorPiel = colorPiel;
-    }
-
     public String getColorPiel() {
         return colorPiel;
-    }
-
-    public void setColorOjos(String colorOjos) {
-        this.colorOjos = colorOjos;
     }
 
     public String getColorOjos() {
         return colorOjos;
     }
 
-    public void setColorCabello(String colorCabello) {
-        this.colorCabello = colorCabello;
-    }
-
     public String getColorCabello() {
         return colorCabello;
     }
+
 }
