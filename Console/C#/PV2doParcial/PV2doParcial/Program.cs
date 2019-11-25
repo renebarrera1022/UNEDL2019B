@@ -8,53 +8,32 @@ namespace PV2doParcial
     {
         static void Main(string[] args)
         {
-        Stack<string> pila = new Stack<string>(); ;
+        Stack pila = new Stack(); ;
         String validar;
-
-             do
-             {
-                 Console.WriteLine("Para salir presiona la tecla 0");
                  Console.WriteLine("Ingresa los paréntesis y/o corchetes de una ecuación: ");
                  validar = Console.ReadLine();
-                 if (validar == ")" || validar == "}" || validar == "]")
-                 {
-                     pila.Push(validar);
-                 }
-                 else if (validar == "[")
-                 {
-                     for (int i = 0; i < pila.Count; i++)
-                     {
-                         if (pila.Contains("]"))
-                         {
-                             pila.remove(i);
-                         }
-                     }
-                 }
-                 else if (validar == "{")
-                 {
-                     for (int i = pila.Count; i >= 0; i--)
-                     {
-                         if (pila.Get(i) == "}")
-                         {
-                             pila.Pop();
-                         }
-                     }
-                 }
-                 else if (validar == "(")
-                 {
-                     for (int i = 0; i < pila.Count; i++)
-                     {
-                         if (pila.get(i) == ")")
-                         {
-                             pila.remove(i);
-                         }
-                     }
-                 }
-                 else if (validar != "0")
-                 {
-                     Console.Write("Valor inválido");
-                 }
-             } while (validar != "0");
+                 foreach(char i in validar)
+                {
+                    if(i == '[' || i == '{' || i =='(')
+                    {
+                        pila.Push(i);
+                    }
+                    else if(pila.Count > 0)
+                    {
+                        if(i == ')')
+                        {
+                            pila.Pop();
+                        }
+                        else if (i == '}')
+                        {
+                            pila.Pop();
+                        }
+                        else if (i == ']')
+                        {
+                            pila.Pop();
+                        }
+                    }
+                }
              if (pila.Count >= 1)
              {
                  Console.Write("--------------- SISTEMA INCONGRUENTE ---------------");
