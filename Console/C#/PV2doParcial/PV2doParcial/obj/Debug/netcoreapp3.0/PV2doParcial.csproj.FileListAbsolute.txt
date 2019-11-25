@@ -1,0 +1,11 @@
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\bin\Debug\netcoreapp3.0\PV2doParcial.exe
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\bin\Debug\netcoreapp3.0\PV2doParcial.deps.json
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\bin\Debug\netcoreapp3.0\PV2doParcial.runtimeconfig.json
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\bin\Debug\netcoreapp3.0\PV2doParcial.runtimeconfig.dev.json
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\bin\Debug\netcoreapp3.0\PV2doParcial.dll
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\bin\Debug\netcoreapp3.0\PV2doParcial.pdb
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\obj\Debug\netcoreapp3.0\PV2doParcial.csprojAssemblyReference.cache
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\obj\Debug\netcoreapp3.0\PV2doParcial.AssemblyInfoInputs.cache
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\obj\Debug\netcoreapp3.0\PV2doParcial.AssemblyInfo.cs
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\obj\Debug\netcoreapp3.0\PV2doParcial.dll
+C:\Users\reneb\UNEDL2019B\Console\C#\PV2doParcial\PV2doParcial\obj\Debug\netcoreapp3.0\PV2doParcial.pdb
