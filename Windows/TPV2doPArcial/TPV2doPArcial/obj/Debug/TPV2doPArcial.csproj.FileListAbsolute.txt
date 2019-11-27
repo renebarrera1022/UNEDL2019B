@@ -1,0 +1,9 @@
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doPArcial\TPV2doPArcial\bin\Debug\TPV2doPArcial.exe
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doPArcial\TPV2doPArcial\bin\Debug\TPV2doPArcial.exe.config
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doPArcial\TPV2doPArcial\obj\Debug\TPV2doPArcial.Form1.resources
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doPArcial\TPV2doPArcial\obj\Debug\TPV2doPArcial.Properties.Resources.resources
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doPArcial\TPV2doPArcial\obj\Debug\TPV2doPArcial.csproj.GenerateResource.cache
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doPArcial\TPV2doPArcial\obj\Debug\TPV2doPArcial.exe
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doPArcial\TPV2doPArcial\obj\Debug\TPV2doPArcial.pdb
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doParcial\TPV2doPArcial\bin\Debug\TPV2doPArcial.pdb
+C:\Users\reneb\UNEDL2019B\Windows\TPV2doParcial\TPV2doPArcial\obj\Debug\TPV2doPArcial.csprojAssemblyReference.cache
