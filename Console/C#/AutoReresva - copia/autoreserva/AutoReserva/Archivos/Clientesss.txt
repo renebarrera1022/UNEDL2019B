@@ -1,0 +1,14 @@
+
+
+Nombre:     René
+Apellido:       Barrera
+Estado:     Aguascalientes
+Direccion:      av. Bronce #31
+Edad:       20
+Telefono:       45678
+Celular:        56789
+Días de renta: 7.00:00:00
+Monto a pagar: $4800
+
+####################################
+
