@@ -1,0 +1,11 @@
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\bin\Debug\netcoreapp3.0\ExamenTercerParcial.exe
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\bin\Debug\netcoreapp3.0\ExamenTercerParcial.deps.json
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\bin\Debug\netcoreapp3.0\ExamenTercerParcial.runtimeconfig.json
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\bin\Debug\netcoreapp3.0\ExamenTercerParcial.runtimeconfig.dev.json
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\bin\Debug\netcoreapp3.0\ExamenTercerParcial.dll
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\bin\Debug\netcoreapp3.0\ExamenTercerParcial.pdb
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\obj\Debug\netcoreapp3.0\ExamenTercerParcial.csprojAssemblyReference.cache
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\obj\Debug\netcoreapp3.0\ExamenTercerParcial.AssemblyInfoInputs.cache
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\obj\Debug\netcoreapp3.0\ExamenTercerParcial.AssemblyInfo.cs
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\obj\Debug\netcoreapp3.0\ExamenTercerParcial.dll
+C:\Users\reneb\source\repos\ExamenTercerParcial\ExamenTercerParcial\obj\Debug\netcoreapp3.0\ExamenTercerParcial.pdb
