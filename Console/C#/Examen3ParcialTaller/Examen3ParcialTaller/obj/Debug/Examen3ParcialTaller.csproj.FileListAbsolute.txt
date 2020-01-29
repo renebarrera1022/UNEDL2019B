@@ -1,0 +1,9 @@
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\bin\Debug\Examen3ParcialTaller.exe.config
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\bin\Debug\Examen3ParcialTaller.exe
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\bin\Debug\Examen3ParcialTaller.pdb
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\obj\Debug\Examen3ParcialTaller.csprojAssemblyReference.cache
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\obj\Debug\Examen3ParcialTaller.Form1.resources
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\obj\Debug\Examen3ParcialTaller.Properties.Resources.resources
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\obj\Debug\Examen3ParcialTaller.csproj.GenerateResource.cache
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\obj\Debug\Examen3ParcialTaller.exe
+C:\Users\reneb\UNEDL2019B\Console\C#\Examen3ParcialTaller\Examen3ParcialTaller\obj\Debug\Examen3ParcialTaller.pdb
